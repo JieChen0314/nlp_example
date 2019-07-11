@@ -1,4 +1,4 @@
-###Examples of Natural Language Processing by using Stanford's Core NLP Java Library
+***Examples of Natural Language Processing by using Stanford's Core NLP Java Library
 
 1. I get the Codes from the website of Stanford NLP, they are:
    1) a simple Core NLP API which contains pipeline of several annotators such as part-of-  speech Tagger, Named Entity Recognizer, Parser, Coreference Resolution System etc. 
